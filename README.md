@@ -1,5 +1,11 @@
 # Forge404_Found
-Hello World
-Greetings Nerds, bots, and waterbased Earthlings alike!
-PSA: You are Oblivious to the Journey You have just embarked! 
-Nonetheless, we will Build/Break/Create along the way ^_^
+Greetings Earthlings, CyberWhizard here from Forge404! 
+PSA:
+Putting my computer science skills to good use.
+Alot of roughing out the edges currently in progress.
+Butt promise on producing products ASAP(very soon),
+such as, beginner friendly coding projects,
+youtube content for walkthroughs.
+Most importantly 
+SaaS, open-source projects, innovative gains,
+Building games, and much more. 👍
